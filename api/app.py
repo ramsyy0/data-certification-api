@@ -26,3 +26,4 @@ def index():
 
 
 # Implement a /predict endpoint
+@app.get("/predict/")
